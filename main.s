@@ -1,3 +1,7 @@
+.file	"main(2).c"
+	.intel_syntax noprefix
+	.text
+	.section	.rodata
 .LC0:
         .string "%f"
 float_input:
